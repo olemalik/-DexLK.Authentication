@@ -1,2 +1,2 @@
-# -DexLK.Authentication
+# DexLK.Authentication
  DexLK.Authentication
